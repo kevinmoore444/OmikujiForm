@@ -1,0 +1,15 @@
+.content {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  border: 1px, solid, black;
+}
+
+.container {
+	max-width: 500px;
+ 	margin: auto;
+ 	height: 400px;
+ 	width: 200px;
+ 	border: 1px, solid, black;
+ 	text-align: center;
+}
